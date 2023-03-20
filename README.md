@@ -1,5 +1,5 @@
-# 🍫 Chocolândia - Loja de Chocolates
-Bem-vindo ao nosso e-commerce temático de páscoa!
+<h1 align="center"> 🍫 Chocolândia - Loja de Chocolates </h1>
+<p align='center'>Bem-vindo ao nosso e-commerce temático de páscoa!</p>
 
 ## ✨ Conheça o nosso projeto 
 A Chocolândia é um e-commerce fictício desenvolvido em <strong>React.js</strong> e <strong>Typescript</strong>, que surgiu a partir da ideia de três amigas desenvolvedoras de criarem juntas um projeto Front End, bem na época mais saborosa do ano.
